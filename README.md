@@ -1,6 +1,6 @@
 # documentai-poc-in-a-box
 
-DocumentAI POC-in-a-box provides a managed Pipeline that  includes components to call, DocAI processors, queue HITL tasks, compare extraction to HITL validated data, generate metrics(accuracy & F1 score) & dashboard to establish accuracy at the field level.  This provides important statistics to either determine the baseline accuracy or help evaluate success criteria for a given POC.It also included terraform manifest files to quickly deploy the pipeline in your own GCP account
+DocumentAI POC-in-a-box provides a managed Pipeline that  includes components to call, DocAI processors, queue HITL tasks, compare extraction to HITL validated data, generate metrics(accuracy & F1 score) & dashboard to establish accuracy at the field level.  This provides important statistics to either determine the baseline accuracy or help evaluate success criteria for a given POC.It also included terraform manifest files to quickly deploy the pipeline in your own GCP account.
 
 ### Google Cloud services used
 
