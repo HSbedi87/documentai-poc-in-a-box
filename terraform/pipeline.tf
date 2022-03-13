@@ -273,7 +273,7 @@ resource "google_project_iam_custom_role" "dai_async_batch_prep_role" {
   role_id     = "dai_async_batch_prep_role"
   title       = "Role for DAI Async Batch Prep Coud Function"
   description = "Role for DAI Async Batch Prep Coud Function"
-  permissions = ["sgcodatastore.indexes.list","documentai.processors.processOnline", "documentai.processorVersions.processOnline", "documentai.operations.getLegacy","documentai.humanReviewConfigs.review"]
+  permissions = ["datastore.indexes.list","documentai.processors.processOnline", "documentai.processorVersions.processOnline", "documentai.operations.getLegacy","documentai.humanReviewConfigs.review"]
 }
 
 resource "google_project_iam_binding" "dai_async_batch_prep_role" {
