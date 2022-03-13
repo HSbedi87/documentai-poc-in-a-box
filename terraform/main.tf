@@ -14,7 +14,7 @@ provider "google" {
 locals {
 
   input_bucket_postfix_async = "-dai-ingest-async"
-  input_bucket_postfix = "-dai-ingest-2"
+  input_bucket_postfix = "-dai-ingest-sync"
   HITL_output_bucket_postfix = "-dai-hitl-output"
   processor_output_bucket_postfix = "-dai-processor-output"
   source_code_bucket_postfix = "-dai-source"
