@@ -1,0 +1,4 @@
+google-cloud-workflows==1.4.1
+google-cloud-storage==1.42.3
+google-cloud-documentai==1.2.0
+google-cloud-firestore==2.3.4

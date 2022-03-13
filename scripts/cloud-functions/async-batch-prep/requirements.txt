@@ -1,0 +1,4 @@
+google-cloud-workflows==1.4.1
+google-api-core==2.2.0
+google-cloud-core==2.1.0
+google-cloud-storage==1.42.3

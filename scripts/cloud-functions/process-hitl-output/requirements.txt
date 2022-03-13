@@ -1,0 +1,7 @@
+functions-framework==2.3.0
+google-api-core==2.2.0
+google-auth==2.3.2
+google-cloud-core==2.1.0
+google-cloud-documentai==1.2.0
+google-cloud-firestore==2.3.4
+google-cloud-storage==1.42.3
